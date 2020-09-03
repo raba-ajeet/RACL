@@ -1,10 +1,10 @@
 # RACL
 Raba.Ajeet Code Library 
-Codeforces = https://codeforces.com/profile/raba_ajeet 
-Codechef = https://www.codechef.com/users/raba_ajeet
-Atcoder = https://atcoder.jp/users/Raba_ajeet
+Codeforces = https://codeforces.com/profile/raba_ajeet <br/>
+Codechef = https://www.codechef.com/users/raba_ajeet <br/>
+Atcoder = https://atcoder.jp/users/Raba_ajeet <br/>
 
 
 
-Some Macros 
-const int N=5*(1e5)+10;
+Some Macros <br/>
+const int N=5*(1e5)+10;<br/>
