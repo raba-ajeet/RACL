@@ -5,5 +5,5 @@ Atcoder = https://atcoder.jp/users/Raba_ajeet <br/>
 
 
 
-Some Macros <br/>
+Macros <br/>
 const int N=5*(1e5)+10;<br/>
